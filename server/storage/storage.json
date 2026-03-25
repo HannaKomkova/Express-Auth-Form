@@ -40,5 +40,12 @@
     "email": "testNikita@mail.ru",
     "phone": "+375291111111",
     "pwd": "$2b$10$UnWXawVbw8Ws6VjycbWxAuCfvVDsbqQWR34VyCg4scMl7G5ij1c9W"
+  },
+  {
+    "id": "8bc81080-2882-11f1-beca-b3ed133e560c",
+    "userName": "Hanna",
+    "email": "nuncsdj@mail.ru",
+    "phone": "+375297896754",
+    "pwd": "$2b$10$2r1h./rgPtjal2M8A8zwXuwi6yqAPu2yy0pSbekT6wLL4RAsggz8q"
   }
 ]
